@@ -32,8 +32,8 @@ body {
 
 /* BANNER */
 
-header .banner {
-    background-image: url('/images/banner/banner1.png');
+.banner {
+    background-image: url("../images/banner/banner1.png");
     display: flex;
     justify-content: space-around;
     align-items: center;
