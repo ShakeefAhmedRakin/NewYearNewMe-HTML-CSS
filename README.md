@@ -34,7 +34,7 @@ You can view the live demo of the project [here](https://shakeefahmedrakin.githu
 
 ## Usage
 
-Open the `index.html` file in a web browser to explore the website and witness the creative representation of personal transformation.
+Open the `index.html` file in a web browser to explore the website.
 
 ## Technologies Used
 
